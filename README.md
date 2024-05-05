@@ -18,7 +18,7 @@ Vous avez été chargé de développer un système de gestion pour une biblioth�
 ## Indications fournies :
 Un livre aura un titre, un auteur, un numéro ISBN unique et un statut (disponible ou emprunté). Les informations sur un livre ne pourront pas être modifiées, à l'exception du statut. L'affichage d'un livre devra produire un résultat ressemblant à ceci : "Titre: Harry Potter et la Chambre des Secrets, Auteur: J.K. Rowling, ISBN: 9782070624521, Statut: Disponible".
 
-Votre application devra permettre de rechercher un livre par son titre ou par son auteur, d'afficher tous les livres disponibles dans la bibliothèque, d'afficher tous les livres empruntés, d'emprunter un livre en utilisant son numéro ISBN, retourner un livre emprunté en utilisant son numéro ISBN, d'afficher tous les livres de la bibliothèque, qu'ils soient disponibles ou empruntés.
+Par l'entremise du savoir-faire de votre bibliothèque, votre application devra permettre de rechercher un livre par son titre ou par son auteur, d'afficher tous les livres disponibles dans la bibliothèque, d'afficher tous les livres empruntés, d'emprunter un livre en utilisant son numéro ISBN, de restituer un livre emprunté en utilisant son numéro ISBN, d'afficher tous les livres de la bibliothèque qu'ils soient disponibles ou empruntés.
 
 Dans votre main(), créez un tableau avec 5 livres avec les caractéristiques suivantes :
 ```
